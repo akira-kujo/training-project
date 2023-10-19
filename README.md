@@ -48,9 +48,8 @@ aws configure
 
 ```bash
 # Clone your new repository
-$ git clone git@bitbucket.org:<yourname>/tangerine_aws.git
+$ git clone git@github.com:<yourname>/training-project.git
 ```
-
 
 There are several python files within this repository: 
     - `aws_resources.py` consists of the python functions which are being called to test to see if the user has correctly met their objectives.

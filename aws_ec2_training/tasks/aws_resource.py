@@ -12,13 +12,13 @@ from utilities import *
 # Global variables
 
 # PLEASE INPUT YOUR NAME HERE AS A STRING
-TRAINEE_NAME = "Kitty"
+TRAINEE_NAME = "Samantha"
 
 
 REGION = "eu-west-1"
 KEY_TAG = "Name"
-COHORT_IDENTIFIER= "CH10.+"
-DEFAULT_VPC = "vpc-4bb64132"
+COHORT_IDENTIFIER= "user.+"
+DEFAULT_VPC = "" #VPC Identifier via AWS MC
 
 def  make_dict_from_list(l):
     """
