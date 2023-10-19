@@ -48,7 +48,7 @@ aws configure
 
 ```bash
 # Clone your new repository
-$ git clone git@bitbucket.org:<yourname>/tangerine_aws.git
+$ git clone git@github.com:<yourname>/training-project.git
 ```
 
 
